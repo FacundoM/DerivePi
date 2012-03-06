@@ -1,0 +1,5 @@
+Hello
+
+This is a short program which derives an aproximation of the value of Pi.
+This is done using the Gregory-Leibniz series, and the formula is found here http://en.wikipedia.org/wiki/Leibniz_formula_for_pi
+
